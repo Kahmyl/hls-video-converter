@@ -63,7 +63,7 @@ composer install
 Go to config/laravel-ffmpeg.php and set the the ffmpeg and ffprobe binaries to your system ffmpeg path
 
 
-![Like so](https://github.com/Kahmyl/hls-video-converter.git/main/path.PNG?raw=true)
+![Like so](https://github.com/Kahmyl/hls-video-converter/blob/main/path.png)
 
 ## Set your database config in .env
 - If it doesnt exist create one and copy the .env-example file
