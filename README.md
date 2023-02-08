@@ -84,6 +84,6 @@ php artisan key:generate
 
 ## Start the Server
 ```bash 
-php artisan server
+php artisan serve
 ```
 
