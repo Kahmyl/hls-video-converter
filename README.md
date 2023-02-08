@@ -46,7 +46,7 @@ $ffmpeg -version
 
 ## Clone the repository
 ```bash 
-git clone 
+git clone https://github.com/Kahmyl/hls-video-converter.git
 ```
 
 ## For the backend with laravel
@@ -63,7 +63,7 @@ composer install
 Go to config/laravel-ffmpeg.php and set the the ffmpeg and ffprobe binaries to your system ffmpeg path
 
 
-![Like so](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Like so](https://github.com/Kahmyl/hls-video-converter.git/main/path.PNG?raw=true)
 
 ## Set your database config in .env
 - If it doesnt exist create one and copy the .env-example file
