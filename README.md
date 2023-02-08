@@ -87,3 +87,27 @@ php artisan key:generate
 php artisan serve
 ```
 
+## For the frontend
+```bash 
+cd converter_frontend
+```
+
+## Install Dependencies
+```bash
+# using npm
+$ npm install
+
+# using yarn
+$ yarn
+```
+
+## Start the server
+```bash
+$ yarn serve
+
+#or
+
+$npm run serve
+```
+
+
