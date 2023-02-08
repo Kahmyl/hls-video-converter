@@ -60,7 +60,7 @@ composer install
 ```
 
 ## Set ffmpeg paths
-Go to config/laravel-ffmpeg.php and set the the ffmpeg and ffprobe binaries to your system ffmpeg path
+Go to config/laravel-ffmpeg.php and set the the ffmpeg and ffprobe binaries to your system ffmpeg path if it laravel-ffmpeg doesn't find path automatically
 
 
 ![Like so](https://github.com/Kahmyl/hls-video-converter/blob/main/path.png)
